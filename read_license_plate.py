@@ -1,6 +1,6 @@
 import numpy as np
 
-from detector_car import Detector
+from detector_plate import Detector
 from detector_lpr import DetectorLPR
 import cv2
 import time
